@@ -1,0 +1,7 @@
+{
+    "modules": [
+      "client/dashboard",
+      "client/home",
+      "client/itemdetail"
+    ]
+}
